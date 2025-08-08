@@ -1,1 +1,27 @@
-h:\preflop_data_noSTRD\50/HJvsCOvsBTNvsSBvsBBvsUTG
+h:\preflop_data
+
+_noSTRD\50/HJvsCOvsBTNvsSBvsBBvsUTG
+
+
+Paulius Semeta, [Aug 5, 2025 at 19:46]
+PokerStars Hand #1172740689779486720: Hold'em No Limit ($1/$2 USD) - 2025/08/05 18:00:57 UTC
+Table '926587' 8-max Seat #6 is the button
+Seat 1: 9334116 ($834 in chips)
+Seat 2: 4249235 ($222 in chips)
+Seat 3: 7911587 ($581 in chips)
+Seat 4: 8848839 ($584 in chips)
+Seat 5: 8310172 ($321 in chips)
+Seat 6: 8727152 ($329 in chips)
+Seat 7: 6867130 ($184 in chips)
+Seat 8: 9206557 ($1139 in chips)
+9334116: posts the ante $16
+4249235: posts the ante $16
+7911587: posts the ante $16
+8848839: posts the ante $16
+8310172: posts the ante $16
+8727152: posts the ante $16
+6867130: posts the ante $16
+9206557: posts the ante $16
+* HOLE CARDS *
+Dealt to 8727152 [6s 8s]
+* FLOP * [9d As 2c]]
