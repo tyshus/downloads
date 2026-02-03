@@ -1,0 +1,65 @@
+{
+  "n_players": 7,
+  "sb": 0.0,
+  "bb": 0.5,
+  "ante": 0.25,
+  "straddle": 0.0,
+  "style_name": "x1",
+  "stack": [
+    26.26,
+    35.3,
+    124.21,
+    38.51,
+    59.05,
+    39.66,
+    56.789997
+  ],
+  "private_hand": [
+    "9d",
+    "6c"
+  ],
+  "community_cards": [],
+  "current_player_id": 0,
+  "use_diff_raise_logic": false,
+  "action_sequance": [
+    {
+      "player_id": 1,
+      "bet_type": "folds",
+      "amount": 0.0,
+      "round": "PREFLOP"
+    },
+    {
+      "player_id": 2,
+      "bet_type": "folds",
+      "amount": 0.0,
+      "round": "PREFLOP"
+    },
+    {
+      "player_id": 3,
+      "bet_type": "folds",
+      "amount": 0.0,
+      "round": "PREFLOP"
+    },
+    {
+      "player_id": 4,
+      "bet_type": "raises",
+      "amount": 1.5,
+      "round": "PREFLOP"
+    },
+    {
+      "player_id": 5,
+      "bet_type": "folds",
+      "amount": 0.0,
+      "round": "PREFLOP"
+    },
+    {
+      "player_id": 6,
+      "bet_type": "raises",
+      "amount": 4.5,
+      "round": "PREFLOP"
+    }
+  ],
+  "beginner_bb_position": [],
+  "uuids": [],
+  "game_id": "010226-5003868-1769928656701"
+}
