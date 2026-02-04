@@ -1,0 +1,40 @@
+PokerStars Hand #1237885611389382656: Hold'em No Limit ($10/$20 USD) - 2026/02/01 11:23:39 UTC
+Table '252823' 8-max Seat #2 is the button
+Seat 1: 10818410 ($2000 in chips)
+Seat 2: 3338401 ($13238 in chips)
+Seat 3: 7193156 ($8888 in chips)
+Seat 4: 8727152 ($1593 in chips)
+Seat 5: 5156993 ($13301 in chips)
+Seat 6: 4861326 ($4495 in chips)
+Seat 7: 4692796 ($5693 in chips)
+Seat 8: 8888135 ($3530 in chips)
+10818410: posts the ante $10
+3338401: posts the ante $10
+7193156: posts the ante $10
+8727152: posts the ante $10
+5156993: posts the ante $10
+4861326: posts the ante $10
+4692796: posts the ante $10
+8888135: posts the ante $10
+7193156: posts small blind $10
+8727152: posts big blind $20
+5156993: posts straddle $40
+10818410: posts straddle $40
+*** HOLE CARDS ***
+Dealt to 8727152 [Kd Ah]
+4861326: calls $40
+4692796: folds
+8888135: folds
+10818410: checks
+3338401: calls $40
+7193156: calls $30
+8727152: raises $320 to $360
+5156993: folds
+4861326: folds
+10818410: folds
+3338401: folds
+7193156: calls $320
+*** FLOP *** [Js Jh 2c]
+7193156: checks
+8727152: bets $316
+7193156: folds
