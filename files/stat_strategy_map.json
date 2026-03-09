@@ -1,0 +1,152 @@
+[
+	{
+		"name": "default",
+		"anteRangeFrom": 0,
+		"anteRangeTo": 0,
+		"rules": [
+			{
+				"ruleCode": "1",
+				"hands": 100,
+				"vpip": 21,
+				"pfr": 10
+			},
+			{
+				"ruleCode": "1.1",
+				"hands": 100,
+				"vpip": 19,
+				"pfr": 8
+			},
+			{
+				"ruleCode": "1.2",
+				"hands": 100,
+				"vpip": 19,
+				"pfr": 8
+			},
+			{
+				"ruleCode": "1.3",
+				"hands": 250,
+				"vpip": 25,
+				"pfr": 15
+			},
+			{
+				"ruleCode": "1.4",
+				"hands": 100,
+				"vpip": 19,
+				"pfr": 8
+			},
+			{
+				"ruleCode": "2",
+				"hands": 100,
+				"vpip": 21,
+				"pfr": 10
+			},
+			{
+				"ruleCode": "2.1",
+				"hands": 250,
+				"vpip": 21,
+				"pfr": 10,
+				"taf": 1.5
+			},
+			{
+				"ruleCode": "2.2",
+				"hands": 100,
+				"vpip": 19,
+				"pfr": 8
+			},
+			{
+				"ruleCode": "2.3",
+				"hands": 100,
+				"vpip": 19,
+				"pfr": 8
+			},
+			{
+				"ruleCode": "2.4",
+				"hands": 250,
+				"vpip": 25,
+				"pfr": 15
+			},
+			{
+				"ruleCode": "2.5",
+				"hands": 250,
+				"vpip": 25,
+				"pfr": 15,
+				"taf": 2.5
+			}
+		]
+	},
+	{
+		"name": "ante range in bb >= 0.1 and < 0.2",
+		"anteRangeFrom": 0.1,
+		"anteRangeTo": 0.2,
+		"rules": [
+			{
+				"ruleCode": "1",
+				"hands": 100,
+				"vpip": 21,
+				"pfr": 10
+			},
+			{
+				"ruleCode": "1.1",
+				"hands": 100,
+				"vpip": 19,
+				"pfr": 8
+			},
+			{
+				"ruleCode": "1.2",
+				"hands": 100,
+				"vpip": 19,
+				"pfr": 8
+			},
+			{
+				"ruleCode": "1.3",
+				"hands": 250,
+				"vpip": 25,
+				"pfr": 15
+			},
+			{
+				"ruleCode": "1.4",
+				"hands": 100,
+				"vpip": 19,
+				"pfr": 8
+			},
+			{
+				"ruleCode": "2",
+				"hands": 100,
+				"vpip": 21,
+				"pfr": 10
+			},
+			{
+				"ruleCode": "2.1",
+				"hands": 250,
+				"vpip": 21,
+				"pfr": 10,
+				"taf": 1.5
+			},
+			{
+				"ruleCode": "2.2",
+				"hands": 100,
+				"vpip": 19,
+				"pfr": 8
+			},
+			{
+				"ruleCode": "2.3",
+				"hands": 100,
+				"vpip": 19,
+				"pfr": 8
+			},
+			{
+				"ruleCode": "2.4",
+				"hands": 250,
+				"vpip": 25,
+				"pfr": 15
+			},
+			{
+				"ruleCode": "2.5",
+				"hands": 250,
+				"vpip": 25,
+				"pfr": 15,
+				"taf": 2.5
+			}
+		]
+	}
+]
